@@ -1,10 +1,10 @@
 
 {
-  "latest_version": "2.1",
-  "release_date": "2026-11-09",
-  "download_url": null,
+  "latest_version": "2.3",
+  "release_date": "2026-11-23",
+  "download_url": "https://github.com/YangPingChi/EMS-Record-Audit-Updates/releases/tag/v2.3",
   "release_notes": [
-    "V2.1 初始穩定使用版本",
-    "後續依實際試用結果持續修正"
+    "新增敘獎查核模式",
+    "危急個案品管新增現場處理時間"
   ]
 }
